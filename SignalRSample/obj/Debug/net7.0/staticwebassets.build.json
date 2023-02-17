@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D5jSAJqwDpTuxgJDO33oLZDZy28FqE2uSo/EOxXWoRg=",
+  "Hash": "aus4v8HC3UFUcZkN0F53jB8nOepVnUrnfoB6Z4v5UI0=",
   "Source": "SignalRSample",
   "BasePath": "_content/SignalRSample",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\deathlyHallows.js",
+      "SourceId": "SignalRSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\",
+      "BasePath": "_content/SignalRSample",
+      "RelativePath": "js/deathlyHallows.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\deathlyHallows.js"
     },
     {
       "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\signalr.js",
