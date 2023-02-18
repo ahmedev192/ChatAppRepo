@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\deathlyHallows.js"
     },
     {
+      "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\houseGroup.js",
+      "PackagePath": "staticwebassets\\js\\houseGroup.js"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr.js"
     },
