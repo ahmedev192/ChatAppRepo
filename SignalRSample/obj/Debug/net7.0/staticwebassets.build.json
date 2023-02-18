@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S2XoRbT64GJz5mvkzwWZdsHw7LrONXcE4L6lJmCeXOw=",
+  "Hash": "AqWiEOFefdm89Cvyx2dhtWp9VyD36KDt4lgbYG6u3TA=",
   "Source": "SignalRSample",
   "BasePath": "_content/SignalRSample",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\houseGroup.js"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\Notification.js",
+      "SourceId": "SignalRSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\",
+      "BasePath": "_content/SignalRSample",
+      "RelativePath": "js/Notification.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Notification.js"
     },
     {
       "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\signalr.js",
