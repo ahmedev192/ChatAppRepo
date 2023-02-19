@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZiN5FLC8tE3aDtE9x1yuSOUwsriGBokFe9aF5tS7UfU=",
+  "Hash": "RJ/cHupkjWikY0ytWL6DLmwVDpJzSyVABEjH0yj2aYg=",
   "Source": "SignalRSample",
   "BasePath": "_content/SignalRSample",
   "Mode": "Default",
@@ -1290,6 +1290,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\SuperChat.js",
+      "SourceId": "SignalRSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\",
+      "BasePath": "_content/SignalRSample",
+      "RelativePath": "js/SuperChat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\SuperChat.js"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\SuperChatHelper.js",
+      "SourceId": "SignalRSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\",
+      "BasePath": "_content/SignalRSample",
+      "RelativePath": "js/SuperChatHelper.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\SuperChatHelper.js"
     },
     {
       "Identity": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\usersCount.js",

@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\js\\Notification.js"
     },
     {
+      "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\SuperChat.js",
+      "PackagePath": "staticwebassets\\js\\SuperChat.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\SuperChatHelper.js",
+      "PackagePath": "staticwebassets\\js\\SuperChatHelper.js"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\deathlyHallows.js",
       "PackagePath": "staticwebassets\\js\\deathlyHallows.js"
     },
