@@ -50,6 +50,7 @@ namespace SignalRSample
             app.MapHub<HouseGroupHub>("/hubs/HouseGroups");  /* We Will USe This src Inside Client Side Connection */ 
             app.MapHub<NotificationHub>("/hubs/NotificationHub");  /* We Will USe This src Inside Client Side Connection */ 
             app.MapHub<ChatHub>("/hubs/Chat");  /* We Will USe This src Inside Client Side Connection */ 
+            app.MapHub<OrderHub>("/hubs/Order");  /* We Will USe This src Inside Client Side Connection */ 
             app.Run();
         }
     }

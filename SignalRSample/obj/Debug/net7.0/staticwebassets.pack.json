@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\js\\houseGroup.js"
     },
     {
+      "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr.js"
     },
