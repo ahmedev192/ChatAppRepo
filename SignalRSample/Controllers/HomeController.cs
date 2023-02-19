@@ -21,7 +21,22 @@ namespace SignalRSample.Controllers
         {
             return View();
         }
+        
+        public IActionResult DeathlyHallow()
+        {
+            return View();
+        }
+        
+        public IActionResult HarryPotterHouse()
+        {
+            return View();
+        }
         public IActionResult Notification()
+        {
+            return View();
+        }
+        
+        public IActionResult Chat()
         {
             return View();
         }
@@ -41,12 +56,6 @@ namespace SignalRSample.Controllers
             
                 return Accepted();
 
-        }
-
-
-        public IActionResult Privacy()
-        {
-            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
