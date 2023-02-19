@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using SignalRSample.Data;
 using SignalRSample.Hubs;
 using SignalRSample.Models;
+using SignalRSample.Models.ViewModel;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace SignalRSample.Controllers
 {
@@ -43,6 +46,18 @@ namespace SignalRSample.Controllers
         public IActionResult Chat()
         {
             return View();
+        }
+        [Authorize]
+        public IActionResult AdvancedChat()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            AdvancedChatVM chatVm = new()
+            {
+                Rooms = _context.ChatRooms.ToList(),
+                MaxRoomAllowed = 4,
+                UserId = userId,
+            };
+            return View(chatVm);
         }
 
         public async Task<IActionResult> DeathlyHallows(string type)

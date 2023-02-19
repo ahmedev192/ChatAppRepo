@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SignalRSample.Data;
 using SignalRSample.Hubs;
+using SignalRSample.Models.ViewModel;
 
 namespace SignalRSample
 {
@@ -51,6 +52,7 @@ namespace SignalRSample
             app.MapHub<NotificationHub>("/hubs/NotificationHub");  /* We Will USe This src Inside Client Side Connection */ 
             app.MapHub<ChatHub>("/hubs/Chat");  /* We Will USe This src Inside Client Side Connection */ 
             app.MapHub<OrderHub>("/hubs/Order");  /* We Will USe This src Inside Client Side Connection */ 
+            app.MapHub<AdvancedChatHub>("/hubs/AdvancedChat");  /* We Will USe This src Inside Client Side Connection */ 
             app.Run();
         }
     }

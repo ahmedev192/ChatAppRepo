@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\AdvansedChat.js",
+      "PackagePath": "staticwebassets\\js\\AdvansedChat.js"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\OneDrive\\Desktop\\SignalRSample\\SignalRSample\\wwwroot\\js\\Chat.js",
       "PackagePath": "staticwebassets\\js\\Chat.js"
     },
